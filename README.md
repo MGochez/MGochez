@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matias Gochez</h1>
+- 🌱 I’m currently learning **JavaScript | TypeScript | PHP | React | Nodejs | Postgress | Express**
+
 - 📫 How to reach me **gochezmatias@gmail.com**
+
+- ⚡ Fun fact **Agronomy Lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
